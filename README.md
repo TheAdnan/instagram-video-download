@@ -4,7 +4,7 @@
 
 #### About
 
-Add-on is still under development
+Download this add-on here: [Instagram video download](https://addons.mozilla.org/en-US/firefox/addon/instagram-video-downloader/)
 
 #### Other
 
