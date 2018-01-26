@@ -1,5 +1,5 @@
 ### **Instagram video download**
-<a href="https://addons.mozilla.org/en-US/firefox/addon/cyrillo/" target="_blank">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/instagram-video-downloader/" target="_blank">
     <img src="https://img.shields.io/badge/Firefox-Addon-orange.svg" alt="Download">
 </a>
 
@@ -15,4 +15,5 @@ You can download my other add-on, instagram-download, for downloading instagram 
 
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 This extension is under MPL-2.0 License.
